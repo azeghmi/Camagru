@@ -13,7 +13,6 @@
         $likes = $value['likes'];
         $filter = $value['img_filter'];
         $img_link = $value['img_link'];
-        var_dump($img_link);
         $img_username = $value['username'];
         $comments = count(getNbComment($value['id']));
         $new_row[0] = "";
