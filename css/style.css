@@ -98,9 +98,6 @@ video, img, #startbutton {
      background: rgb(124,206,186);
      color:white;
  }
-
- /* jv css */
-
  body {
     background-color: white;
      min-height: 100%;
@@ -187,21 +184,7 @@ html {
 }
 .level {
     justify-content: center;
-    /*width: 100%;*/
-    /*max-width: 960px;*/
 }
-/*#custom_footer {*/
-/*    margin-top: 15em;*/
-/*    height:150px;*/
-/*    background :white;*/
-/*    botom: 0;*/
-/*}*/
-/*.footer{*/
-/*    background :white;*/
-/*    padding: 3rem ;*/
-/*    botom: 0;*/
-/*}*/
-
 .card-content{
     background-color: white;
     border-radius: 0 0 10px 10px;
@@ -249,11 +232,6 @@ background-color: transparent;
 
 #username_comment {
     color:#000000;
-    /* padding: 10px;
-    margin-right: 0em;
-    margin-bottom: 2em;
-    border-radius: 5px;
-    font-size: 0.7em; */
     background: linear-gradient(-151deg, #d8dfe2);
     font-weight: 500;
 }
